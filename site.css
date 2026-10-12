@@ -1,0 +1,15 @@
+body {
+    background: #59c74f;
+    padding: 50px;
+}
+h1,
+h2,
+h3 {
+    color: #012e18;
+    font-family: Arial, Helvetica, sans-serif;
+}
+img {
+    width: 200px;
+}
+#gallery{ display: flex; flex-wrap: wrap; align align-items: flex-start; row-gap: 30px; column-gap:  50px; } 
+#gallery IMG { width: 300px}
