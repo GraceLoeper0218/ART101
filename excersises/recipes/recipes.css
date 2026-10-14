@@ -1,0 +1,55 @@
+HTML {background-color: skyblue; } 
+
+A {color: rgb(26, 167, 167)}
+A:hover {color: rgb(142, 255, 120); background-color: blue;}
+
+
+UL {color: red}
+
+H1 {background: rgb(19, 19, 255); color:rgb(51, 245, 245); font-weight: normal}
+p { color: rgb(26, 4, 87)}
+
+P {background-color: rgb(21, 114, 114);
+padding: 20px;
+margin: 50px;
+font-size: 10px;
+
+}
+P:hover {background-color: rgb(122, 252, 252);}
+
+UL:hover{color: orangered; background-color: yellow}
+
+IMG {display: block; margin-left: auto; margin-right: auto;
+}
+
+#beyonce {width: 50%;}  
+
+.highlight_01{background-color: coral;}
+
+.highlight_01:hover{background-color: yellow;}
+
+.highlight_01 strong {background-color: orange;}
+
+.highlight_02{background-color:green;}
+
+
+
+#main {background-color: pink; padding: 50px; margin: 100px;
+-webkit-box-shadow: #FFF 0 -1px 4px, #ff0 0 -2px 10px, #ff8000 0 -10px 20px, red 0 -18px 40px, 5px 5px 15px 5px rgba(0,0,0,0); 
+box-shadow: #FFF 0 -1px 4px, #ff0 0 -2px 10px, #ff8000 0 -10px 20px, red 0 -18px 40px, 5px 5px 15px 5px rgba(0,0,0,0);}
+
+#gallery{ display: flex; flex-wrap: wrap; align-items: flex-start; row-gap: 30px; column-gap:  50px; } 
+#gallery IMG { width: 300px}
+
+#gallery DIV {background: bisque; padding: 30px; border-radius: 30px; }
+
+/* homepage styles */
+#pan-home {position: relative; height: 100vh ; background: url(images/bp.jpg)}
+
+#chicken { position: absolute; bottom: 10px; left: 40%; width: 100px}
+
+#chicken2 { position: absolute; bottom: 50px; left: 10vw; width: 100px}
+
+#chicken3 { position: absolute; bottom: 50px; left: 100px; width: 100px }
+
+#homelink { width: 40px;}
