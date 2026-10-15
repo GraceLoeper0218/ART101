@@ -46,10 +46,10 @@ box-shadow: #FFF 0 -1px 4px, #ff0 0 -2px 10px, #ff8000 0 -10px 20px, red 0 -18px
 /* homepage styles */
 #pan-home {position: relative; height: 100vh ; background: url(images/bp.jpg)}
 
-#chicken { position: absolute; bottom: 10px; left: 40%; width: 100px}
+#chicken { position: absolute; bottom: 10px; left: 40%; width: 50%}
 
-#chicken2 { position: absolute; bottom: 50px; left: 10vw; width: 100px}
+#chicken2 { position: absolute; bottom: 50px; left: 10vw; }
 
-#chicken3 { position: absolute; bottom: 50px; left: 100px; width: 100px }
+#chicken3 { position: absolute; bottom: 50px; left: 100px; }
 
 #homelink { width: 40px;}
