@@ -46,10 +46,13 @@ box-shadow: #FFF 0 -1px 4px, #ff0 0 -2px 10px, #ff8000 0 -10px 20px, red 0 -18px
 /* homepage styles */
 #pan-home {position: relative; height: 100vh ; background: url(images/bp.jpg)}
 
-#chicken { position: absolute; bottom: 10px; left: 40%; width: 50%}
+#chicken { position: absolute; bottom: 10px; left: 40%; }
+#chicken IMG { width: 200px}
 
 #chicken2 { position: absolute; bottom: 50px; left: 10vw; }
+#chicken2 IMG { width: 200px}
 
-#chicken3 { position: absolute; bottom: 50px; left: 100px; }
+#chicken3 { position: absolute; bottom: 50px; right: 100px; }
+#chicken3 IMG { width: 200px}
 
-#homelink { width: 40px;}
+#homelink IMG { width: 40px;}
