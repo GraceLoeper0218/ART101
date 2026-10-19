@@ -12,8 +12,15 @@ img {
     width: 200px;
 }
 
-#gallery{ display: flex; flex-wrap: wrap; align-items: flex-start; row-gap: 30px; column-gap:  50px; } 
-#gallery IMG { width: 300px}
+#gallery{ display: flex; flex-wrap: wrap; align-items: flex-start; row-gap: 30px; column-gap:  20px; } 
+
+#gallery IMG { 
+    width: 200px;
+    margin: 1 auto 1 auto;
+    background: rgb(46, 223, 149);
+    padding: 30px;}
+
+
 
 #page {
     max-width: 900px;
