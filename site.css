@@ -11,5 +11,13 @@ h3 {
 img {
     width: 200px;
 }
-#gallery{ display: flex; flex-wrap: wrap; align align-items: flex-start; row-gap: 30px; column-gap:  50px; } 
+
+#gallery{ display: flex; flex-wrap: wrap; align-items: flex-start; row-gap: 30px; column-gap:  50px; } 
 #gallery IMG { width: 300px}
+
+#page {
+    max-width: 900px;
+    margin: 0 auto 0 auto;
+    background: rgb(46, 223, 149);
+    padding: 30px;
+}
