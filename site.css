@@ -12,7 +12,7 @@ img {
     width: 200px;
 }
 
-#gallery{ display: flex; flex-wrap: wrap; align-items: flex-start; row-gap: 30px; column-gap:  20px; } 
+#gallery{ display: flex; flex-wrap: wrap; align-items: flex-start; row-gap: 10px; column-gap:  20px; } 
 
 #gallery IMG { 
     width: 200px;
@@ -24,7 +24,7 @@ img {
 
 #page {
     max-width: 900px;
-    margin: 0 auto 0 auto;
+    margin: 1 auto 1 auto;
     background: rgb(46, 223, 149);
     padding: 30px;
 }
@@ -40,7 +40,7 @@ img {
     display: flex;
     gap: 30px;
     align-items: flex-start;
-    margin: 0 0 25px 0;
+    margin: 0 0 -6px 0;
 }
 
 #introduction {
